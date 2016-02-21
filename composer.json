@@ -1,0 +1,29 @@
+{
+    "name": "components/jqueryui-theme-bootstrap",
+    "type": "component",
+    "description": "Bootstrap Theme for jQuery UI",
+    "keywords": [],
+    "license": "",
+    "authors": [
+        {
+            "name": "Andreas Lemke",
+            "email": "andreas.lemke@tu-braunschweig.de"
+        }
+    ],
+    "require": {
+    },
+    "extra": {
+        "component": {
+            "name": "jqueryui-theme-bootstrap",
+            "files": [
+                "jquery-ui-1.10.3.custom.css",
+                "jquery.ui.1.10.3.ie.css",
+                "jquery-ui-1.10.3.theme.css",
+                "jquery-ui.css",
+                "jquery.ui.theme.font-awesome.css",
+                "images/*"
+            ]
+        }
+    },
+    "minimum-stability": "dev"
+}

@@ -1,0 +1,8 @@
+{
+    "name"          : "jqueryui-theme-bootstrap",
+    "version"       : "0.2.5",
+    "main"          : "./jquery-ui.css",
+    "dependencies"  : {
+        "jqueryui" : ">=1.9.0"
+    }
+}
